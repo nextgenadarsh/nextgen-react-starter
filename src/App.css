@@ -1,0 +1,14 @@
+/**
+  Global styles
+**/
+
+h1,
+p {
+  font-family: Lato;
+}
+
+div.layout {
+  border: 0.5px solid lightgray;
+  box-sizing: border-box;
+  width: 100%;
+}
